@@ -1,3 +1,9 @@
+# Tic-Tac-Toe made by the Thegr8kabeer using Python 3.8
+# Follow me on GitHub at https://github.com/thegr8kabeer
+# Simple code for beginners to understand the syntax
+# Follow me on instagram at https://www.instagram.com/thegr8kabeer/
+
+
 # --------- Global Variables -----------
 
 # Will hold our game board data
