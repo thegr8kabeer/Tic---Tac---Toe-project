@@ -7,3 +7,10 @@ Firstly, we are going to call ten (a huge amount ) functions that are:
 it's function is to play the game of tic tac toe) 
 
 2. def display_board() --------------- ( this function is uded to display the board of the tic tac toe
+
+Steve Jobs once said:
+>“You've baked a really lovely cake, but then you've used dog shit for frosting.”
+
+Happy Coding!!!
+
+And don't forgrt to follow me on instagram at https://instagram.com/thegr8kabeer/
