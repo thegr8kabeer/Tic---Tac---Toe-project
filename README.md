@@ -238,4 +238,4 @@ Steve Jobs once said:
 
 Happy Coding!!! :smiley:
 
-And don't forgrt to follow me on instagram at https://instagram.com/thegr8kabeer/
+And don't forget to follow me on [Twitter](https://twitter.com/thegr8kabeer)
